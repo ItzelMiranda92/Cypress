@@ -1,0 +1,15 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "recordDashBoardTest":".\\node_modules\\.bin\\cypress run --record --key e9ab353a-58f2-4638-b8d1-d41365d2b100"
+  },
+  "author": "Itzel",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.1.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}

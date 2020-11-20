@@ -1,0 +1,26 @@
+{
+
+
+    "labelsMainPage":{
+        "title":"Last Reported Status",
+        "note":"Note: Newly created drivers will not display until a\n          login has occurred"
+        },
+
+    "labelsModal":{
+        "titleAdd":"Add Carrier Information",
+        "titleEdit":"Update Carrier Information",
+        "name":"Carrier Name",
+        "DOT":"Carrier DOT Number",
+        "street":"Street Name",
+        "city":"City",
+        "country":"Country",
+        "state":"State",
+        "postalCode":"ZIP/Postal Code",
+        "phoneNumber":"Phone Number",
+        "timeZone":"Time Zone",
+        "startHour":"Start Hour of Day",
+        "default":"Make this the default carrier",
+        "save":"SAVE",
+        "close":"CLOSE"
+        }
+}

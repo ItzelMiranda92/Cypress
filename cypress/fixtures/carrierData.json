@@ -1,0 +1,39 @@
+{
+    "carrier":{
+        "name":"Carrier Test Name",
+        "DOT":"940349",
+        "street":"850  Willow Greene Drive",
+        "city":"Crestview",
+        "postalCode":"32536",
+        "phoneNumber":"334-256-4311",
+        "newName":"New Carrier Test Name"
+    },
+
+    "labelsMainPage":{
+        "title":"Carrier Information",
+        "tableNumber":"#",
+        "tableName":"Name",
+        "tableDOT":"DOT Number",
+        "tableDefault":"Default Carrier",
+        "tableActions":"Actions"
+        },
+
+    "labelsModal":{
+        "titleAdd":"Add Carrier Information",
+        "titleEdit":"Update Carrier Information",
+        "name":"Carrier Name",
+        "DOT":"Carrier DOT Number",
+        "street":"Street Name",
+        "city":"City",
+        "country":"Country",
+        "state":"State",
+        "postalCode":"ZIP/Postal Code",
+        "phoneNumber":"Phone Number",
+        "timeZone":"Time Zone",
+        "startHour":"Start Hour of Day",
+        "default":"Make this the default carrier",
+        "save":"SAVE",
+        "close":"CLOSE"
+        },
+        "defaultCarrier":"JUST TEST LEAGUE"
+}

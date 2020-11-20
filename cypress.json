@@ -1,0 +1,13 @@
+{
+  "defaultCommandTimeout": 30000,
+  "pageLoadTimeout": 60000,
+  "env": {
+    "url": "https://hos.dev.omnitracsone.com",
+    "urlt": "https://rahulshettyacademy.com"
+  },
+
+  "retries": {
+    "runMode": 2
+  },
+  "projectId": "vsz93f"
+}
